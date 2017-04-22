@@ -2,10 +2,10 @@
 #   Main Configs   #
 # ---------------- #
 baseurl: 
-url: http://mazhuang.org/jekyll-theme-solid
+url: https://luzhongkuan.github.io
 date_format: "ordinal"
 title: jekyll-theme-solid
-author: Zhuang Ma 
+author: 卢忠宽
 
 # ---------------- #
 #   RSS / Email    #
