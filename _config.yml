@@ -21,11 +21,14 @@ kramdown:
     input: GFM
 paginate: 9
 permalink: /:year/:month/:day/:title/
+date_format: YY-MM-DD
+time_format: HH:mm:ss
 gems:
     - jekyll-paginate
     - jekyll-sitemap
     - jekyll-feed
     - jemoji
+
 collections:
     wiki:
         output: true
